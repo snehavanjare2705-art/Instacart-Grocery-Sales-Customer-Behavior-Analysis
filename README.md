@@ -1,4 +1,3 @@
-# Instacart-Grocery-Sales-Customer-Behavior-Analysis
 # Instacart Grocery Shopping Behavior & Retail Analytics
 
 An interactive grocery analytics dashboard built using **Microsoft Excel, Power Query, Power Pivot, and DAX** to analyze customer purchasing behavior, product demand, repeat-purchase patterns, and ordering trends across **33.8 million+ order-product records**.
@@ -112,7 +111,11 @@ The project demonstrates an end-to-end analytical workflow covering **data prepa
 **Sneha Vanjare**
 
 * **GitHub:** [Sneha Vanjare](https://github.com/Rohit-Ajagekar)
-
+<p>
+  <a href="https://github.com/snehavanjare2705-art" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 **Tools:** Microsoft Excel 2019 | Power Query | Power Pivot | DAX | Data Modeling | Business Analytics
