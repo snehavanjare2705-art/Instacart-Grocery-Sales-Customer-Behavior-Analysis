@@ -110,12 +110,8 @@ The project demonstrates an end-to-end analytical workflow covering **data prepa
 
 **Sneha Vanjare**
 
-* **GitHub:** [Sneha Vanjare](https://github.com/Rohit-Ajagekar)
-<p>
-  <a href="https://github.com/snehavanjare2705-art" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+* **GitHub:** [Sneha Vanjare](https://github.com/snehavanjare2705-art)
+
 ---
 
 **Tools:** Microsoft Excel 2019 | Power Query | Power Pivot | DAX | Data Modeling | Business Analytics
