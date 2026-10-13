@@ -109,9 +109,9 @@ The project demonstrates an end-to-end analytical workflow covering **data prepa
 
 ## 👩‍💻 Author
 
-**Rohit Ajagekar**
+**Sneha Vanjare**
 
-* **GitHub:** [Rohit-Ajagekar](https://github.com/Rohit-Ajagekar)
+* **GitHub:** [Sneha Vanjare](https://github.com/Rohit-Ajagekar)
 
 ---
 
