@@ -29,7 +29,7 @@ The dataset includes order history and product-level purchasing information. It 
 
 ## 🛠️ Tools & Technologies
 
-* **Microsoft Excel 2019** — Dashboard development and reporting
+* **Microsoft Excel** — Dashboard development and reporting
 * **Power Query** — Data cleaning, transformation, and preparation
 * **Power Pivot** — Data modeling and relationship management
 * **DAX** — Calculated measures and customer segmentation
