@@ -114,4 +114,4 @@ The project demonstrates an end-to-end analytical workflow covering **data prepa
 
 ---
 
-**Tools:** Microsoft Excel 2019 | Power Query | Power Pivot | DAX | Data Modeling | Business Analytics
+
